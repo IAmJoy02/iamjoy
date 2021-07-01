@@ -456,3 +456,27 @@ img{
     right: 10%;
   }
 }
+
+.ColorChange{
+  animation: animate 20s linear infinite;
+}
+@keyframes animate {
+  0%{
+    color: #0033ff;
+  }
+  20%{
+    color: #ff0000;
+  }
+  40%{
+    color: #00ff00;
+  }
+  60%{
+    color: #ff00ff;
+  }
+  80%{
+    color: #9900ff;
+  }
+  100%{
+    color: #f7e601;
+  }
+}

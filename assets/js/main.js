@@ -58,8 +58,8 @@ sr.reveal('.contact__input', { interval: 200 });
 
 // =========== Typing Text Animation Script ===========
 var options = {
-    strings: ["Web Developer", "Blogger", "YouTuber", "Web Designer", "Freelancer"],
-    typeSpeed: 70,
+    strings: ["Web Developer", "Freelancer", "Wordpress Developer", "YouTuber", "Web Designer"],
+    typeSpeed: 60,
     backSpeed: 40,
     loop: true
 };
